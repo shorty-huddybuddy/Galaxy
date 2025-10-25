@@ -1,4 +1,4 @@
-# 🌌 Hand Gesture Controlled 3D Solar System
+# 🌌 Hand Gesture Controlled 3D Models
 
 An interactive 3D solar system visualization controlled by hand gestures using computer vision and WebGL.
 
