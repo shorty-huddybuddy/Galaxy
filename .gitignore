@@ -1,0 +1,65 @@
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.history/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.log
+*.sqlite3
+*.db
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+# Project venv (Windows) in repo
+handgasture/
+
+# Tools / caches
+.pytest_cache/
+.mypy_cache/
+.pytype/
+coverage/
+htmlcov/
+.tox/
+.cache/
+.ipynb_checkpoints/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Flask
+instance/
+
+# Node/Web (in case used)
+node_modules/
+dist/
+build/
+*.map
+
+# Logs / PIDs
+*.log
+*.pid
+
+# Environment files
+.env
+.env.*
+.python-version
+
+# 3D models (optional large assets)
+# Uncomment if you don't want to commit large model files
+# *.glb
+# *.gltf
+# *.bin
